@@ -6,7 +6,7 @@ This is a demo project for [gdocweb](https://gdocweb.com), a tool that converts 
 
 This demo shows a simple vacation site containing photos and stories about a vacation.
 
-This website can be browsed here: https://shai-almog.github.io/GdocwebSoftwareDocs/
+This website can be browsed here: https://shai-almog.github.io/GdocwebVacationSite/
 
 It was generated automatically from the following Google Documents:
 
